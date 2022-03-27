@@ -1,0 +1,53 @@
+/************************CSS_STYLE************************/
+
+body {
+    background-color: #c2ebeb;
+}
+
+.main {
+margin-left: 0%;
+    margin-right: auto;
+    border-width: 20px;
+}
+
+.name {
+    margin-right: auto;
+    height: auto;
+    width: 52%;
+    background-color: bisque;
+    border-radius: 3px;
+}
+#keys{
+    position: relative;
+    left: 200%;
+}
+.name:hover{
+    background-color: whitesmoke;
+}
+a:hover{
+    background-color: blanchedalmond;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-top-width: 9px;
+    border-width: auto;
+    height: 0%;
+    border-color: whitesmoke;
+    width: 20%;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: #c2ebeb;
+}
+
+.detail {
+    border-radius: .4cm;
+    background-color: aquamarine;
+    height: auto;
+    width: 20%;
+}
+.detail:hover{
+    background-color: aliceblue;
+}
